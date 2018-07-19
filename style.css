@@ -1,0 +1,236 @@
+.parent{
+  display:flex;
+  flex-direction:row;
+  border :3px solid red;
+
+}
+.childone{
+  border:3px solid blue;
+  padding: 3%;
+  margin: 2%;
+  width: :30%;
+text-align:center;
+}
+img{
+  width :40%;
+  border:5px solid pink;
+  border-radius :50%;
+
+  display:block;margin-left: auto;
+  margin-right: auto;
+}
+.childtwo{
+  border :3px solid blue;
+  padding: 3%;
+  margin:2%;
+  width: 70%;
+}
+table{
+  wdith :90%;
+}
+td{
+  padding :2%;
+}
+@media only screen and (min-width:320px) and (max-width:480px)
+{
+  a{
+    word-wrap:break-word;
+  }
+
+  .parent{
+    display:flex;
+    flex-direction: column;
+    border :3px solid red;
+
+  }
+  .childone{
+    border:3px solid blue;
+    padding: 3%;
+    margin: 2%;
+    width: :90%;
+    font-size:20px;
+background-color:skyblue;
+  text-align:center;
+  }
+  .childtwo{
+    border :3px solid blue;
+    padding: 3%;
+    margin:2%;
+    width: 90%;
+    background-color:skyblue;
+  }
+}
+@media only screen and (min-width:480px) and (max-width:780px)
+{
+  a{
+    word-wrap:break-word;
+  }
+
+  .parent{
+    display:flex;
+    flex-direction: column;
+    border :3px solid red;
+
+  }
+  .childone{
+    border:3px solid blue;
+    padding: 3%;
+    margin: 2%;
+    width: :90%;
+    font-size:20px;
+  background-color:skyblue;
+  text-align:left;
+  }
+  .childtwo{
+    border :3px solid blue;
+    padding: 3%;
+    margin:2%;
+    width: 90%;
+    background-color:skyblue;
+  }
+  }
+  @media only screen and (min-width:480px) and (max-width:780px)
+  {
+    a{
+      word-wrap:break-word;
+    }
+
+    .parent{
+      display:flex;
+      flex-direction: column;
+      border :3px solid red;
+
+    }
+    .childone{
+      border:3px solid blue;
+      padding: 3%;
+      margin: 2%;
+      width: :90%;
+      font-size:20px;
+    background-color:skyblue;
+    text-align:left;
+    }
+    .childtwo{
+      border :3px solid blue;
+      padding: 3%;
+      margin:2%;
+      width: 90%;
+      background-color:skyblue;
+    }
+    }
+
+    @media only screen and (min-width:480px) and (max-width:780px)
+    {
+      a{
+        word-wrap:break-word;
+      }
+
+      .parent{
+        display:flex;
+        flex-direction: column;
+        border :3px solid red;
+
+      }
+      .childone{
+        border:3px solid blue;
+        padding: 3%;
+        margin: 2%;
+        width: :90%;
+        font-size:20px;
+      background-color:skyblue;
+      text-align:left;
+      }
+      .childtwo{
+        border :3px solid blue;
+        padding: 3%;
+        margin:2%;
+        width: 90%;
+        background-color:skyblue;
+      }
+    }@media only screen and (min-width:480px) and (max-width:780px)
+    {
+      a{
+        word-wrap:break-word;
+      }
+
+      .parent{
+        display:flex;
+        flex-direction: column;
+        border :3px solid red;
+
+      }
+      .childone{
+        border:3px solid blue;
+        padding: 3%;
+        margin: 2%;
+        width: :90%;
+        font-size:20px;
+      background-color:skyblue;
+      text-align:left;
+      }
+      .childtwo{
+        border :3px solid blue;
+        padding: 3%;
+        margin:2%;
+        width: 90%;
+        background-color:skyblue;
+      }
+    }
+    @media only screen and (min-width:480px) and (max-width:780px)
+    {
+      a{
+        word-wrap:break-word;
+      }
+
+      .parent{
+        display:flex;
+        flex-direction: column;
+        border :3px solid red;
+
+      }
+      .childone{
+        border:3px solid blue;
+        padding: 3%;
+        margin: 2%;
+        width: :90%;
+        font-size:20px;
+      background-color:skyblue;
+      text-align:left;
+      }
+      .childtwo{
+        border :3px solid blue;
+        padding: 3%;
+        margin:2%;
+        width: 90%;
+        background-color:skyblue;
+      }
+    }
+    @media only screen and (min-width:769px) and (max-width:1024px)
+    {
+      a{
+        word-wrap:break-word;
+      }
+
+      .parent{
+        display:flex;
+        flex-direction: column;
+        border :3px solid red;
+
+      }
+      .childone{
+        border:3px solid blue;
+        padding: 3%;
+        margin: 2%;
+        width: :90%;
+        font-size:20px;
+      background-color:#33F6FF;
+      text-align:left;
+      }
+      .childtwo{
+        border :3px solid blue;
+        padding: 3%;
+        margin:2;
+        width: 90%;
+        background-color:#339CFF;
+      }
+    }

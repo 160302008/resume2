@@ -1,0 +1,43 @@
+{"basics":{
+  "image":"f icons.jpg",
+  "name" :"ammulu",
+  "phoneno":"987564321",
+  "email":"archana11@gmail.com",
+  "Address":"SRKR College bhimavaram"
+},
+"CareerObjective":{
+  "info":"Include your years of work experience if you have none, mention your educational degree"
+},
+"education":[{
+  "degree":"btech",
+  "institute":"srkr",
+  "data":["2016-2020","84%"]
+},
+{
+  "degree":"intermediate",
+  "institute":"sasi vellivennu",
+"data":["2014-2016","97"]
+},
+{
+"degree":"intermediate",
+"institute":"kkr gowtham school",
+"data":["2014","97%"]
+}
+],
+"skills":[{
+"title":"languages",
+"data":["c","c++","java","python"]
+},
+{
+  "title":"database",
+  "data":["sql","mysql","oracle"]
+},
+{
+  "title":"operating systems",
+  "data":["sql","mysql","oracle"]
+}
+],
+"achievements":{
+  "data":"certified  by bc by securing good grade"
+}
+}
